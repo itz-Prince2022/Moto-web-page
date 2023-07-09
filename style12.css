@@ -4,7 +4,7 @@ img{
 }
 header{
     text-align: center;
-    background-image: url("/Media/img2.jpeg"); 
+    background-image: url("img2.jpeg"); 
     background-repeat: no-repeat;
     background-size:100% 120%;
     color:white;
